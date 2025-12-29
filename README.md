@@ -156,4 +156,4 @@ public R updateSingerMsg(@RequestBody SingerRequest updateSingerRequest) {
 
 <img width="1125" height="128" alt="链接" src="https://github.com/user-attachments/assets/70954dc7-8527-443b-9d9f-25ce878af168" />
 
-若资源获取失败，可添加happy35596339(vx)或1204901965(qq)进行交流
+若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
