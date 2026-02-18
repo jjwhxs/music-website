@@ -152,8 +152,6 @@ public R updateSingerMsg(@RequestBody SingerRequest updateSingerRequest) {
 
 ### 获取方式(可远程调试)
 
-访问链接(在浏览器中手动输入下图中的地址)：
-
-<img width="1125" height="128" alt="链接" src="https://github.com/user-attachments/assets/70954dc7-8527-443b-9d9f-25ce878af168" />
+访问链接：https://mbd.pub/o/bread/mbd-YZWTmJZrZQ==
 
 若资源获取失败，可添加happy35596339(vx)或2061772307(qq)进行交流
